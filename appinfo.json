@@ -1,13 +1,13 @@
 {
   "uuid": "ea040cfb-6bf8-4484-af94-f0e9d2ca2457",
   "shortName": "fitstone",
-  "longName": "fitstone",
-  "companyName": "MakeAwesomeHappen",
+  "longName": "Fitbit watchface",
+  "companyName": "thirteen37",
   "versionLabel": "1.0",
   "sdkVersion": "3",
   "targetPlatforms": ["aplite", "basalt"],
   "watchapp": {
-    "watchface": false
+    "watchface": true
   },
   "appKeys": {
     "dummy": 0
